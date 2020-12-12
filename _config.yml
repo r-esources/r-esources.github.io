@@ -9,5 +9,5 @@ url: "https://r-esources.github.io" # the base hostname & protocol for your site
 # THEME SETTINGS
 navigation: # Navigation links
   # - {name: 'Home', link: '/'}
-  - {name: 'Links for R sources', link: '/R-links}
-  - {name: 'aRtistry', link: '/artistry'}
+  - {name: 'Links for R sources', link: '/R-esources}
+  - {name: 'aRtistry', link: '/aRtistry'}
