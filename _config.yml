@@ -1,7 +1,7 @@
 # SITE CONFIGURATION
 theme: minima
 title: R-esources # your site title
-author: Hülya Aldemiir # You :P
+author: Hülya Aldemir # You :P
 description: > # Meta description of Homepage
   Website for cool R resources.
 baseurl: "" # the subpath of your site, e.g. /blog
