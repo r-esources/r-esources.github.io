@@ -1,7 +1,7 @@
 ---
 layout: page
 title: wRiting/R Markdown
-permalink: /r-markdown-links/
+permalink: /writing-r-markdown/
 ---
 
 here I share R Markdown related stuff
