@@ -1,5 +1,5 @@
 ---
 layout: page
-title: VisuaRization
+title: visuaRization
 permalink: /visuarization/
 ---
