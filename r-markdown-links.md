@@ -1,7 +1,6 @@
 ---
 layout: page
-title: R-esources for R Markdown
-date: 2020-12-12 23:59
+title: wRiting/R Markdown
 permalink: /r-markdown-links/
 ---
 
