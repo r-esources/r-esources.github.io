@@ -1,5 +1,5 @@
 ---
 layout: page
-title: R-esources for VisuaRization
+title: R-esources/VisuaRization
 permalink: /visuarization/
 ---
