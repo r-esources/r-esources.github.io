@@ -1,7 +1,7 @@
 ---
 layout: page
 title: aRtistry
-permalink: /aRtistry/
+permalink: /artistry/
 ---
 
 here I share Rtists
