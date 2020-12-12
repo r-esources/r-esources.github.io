@@ -1,1 +1,13 @@
-theme: minima
+# SITE CONFIGURATION
+title:R-esources # your site title
+author: hulyaald # You :P
+description: > # Meta description of Homepage
+  Website for cool R things.
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "https://r-esources.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+
+# THEME SETTINGS
+navigation: # Navigation links
+  # - {name: 'Home', link: '/'}
+  - {name: 'Links for R sources', link: '/R-esources'}
+  - {name: 'aRtistry', link: '/artistry'}
