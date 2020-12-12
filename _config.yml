@@ -1,4 +1,5 @@
 # SITE CONFIGURATION
+theme: minima
 title: R-esources # your site title
 author: hulyaald # You :P
 description: > # Meta description of Homepage
