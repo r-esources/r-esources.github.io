@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "aRtistryE"
+title: "aRtistry"
 permalink: /artistry/
 ---
 
