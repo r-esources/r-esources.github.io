@@ -3,13 +3,4 @@ title: R-esources
 author: Hülya Aldemir
 description: > # Meta description of Homepage
   Cool R things.
-# THEME SETTINGS
-#navigation: # Navigation links
-  # - {name: 'Home', link: '/'}
-  #- {name: 'Register', link: '/registration'}
-  #- {name: 'Schedule', link: '/schedule'}
-  #- {name: 'Projects', link: '/projects'}
-  #- {name: 'Social Events', link: '/social-events'}
-  #- {name: 'About', link: '/about'}
-  #- {name: 'Contact', link: '/contact'}
 theme: jekyll-theme-minimal
