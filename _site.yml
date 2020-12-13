@@ -1,0 +1,16 @@
+name: "Resources"
+output_dir: "main"
+navbar:
+  title: "R-esources"
+  left:
+  - text: "Home"
+    href: index.html
+  - text: "visuaRization"
+    href: visuarization.html
+  - text: "wRiting/R Markdown"
+    href: writing/R Markdown.html
+  - text: "aRtistry"
+    href: artistry.html
+output:
+  html_document:
+theme: cosmo

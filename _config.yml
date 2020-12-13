@@ -1,8 +1,0 @@
-# SITE CONFIGURATION
-theme: minima
-title: R-esources # your site title
-author: Hülya Aldemir # You :P
-description: > # Meta description of Homepage
-  Website for cool R resources.
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://r-esources.github.io" # the base hostname & protocol for your site, e.g. http://example.com
