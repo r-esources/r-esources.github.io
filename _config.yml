@@ -1,5 +1,5 @@
 # SITE CONFIGURATION
-theme: jekyll-theme-slate
+theme: minima
 title: R-esources
 author: Hülya Aldemir
 description: > # Meta description of Homepage
