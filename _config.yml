@@ -13,4 +13,4 @@ navbar:
     href: artistry.html
 output:
   html_document:
-theme: architect
+theme: jekyll-theme-architect
