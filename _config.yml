@@ -1,13 +1,13 @@
 name: "Resources"
 navbar:
   title: "R-esources"
-    href: index.html
+  href: index.html
   title: "visuaRization"
-    href: visuarization.html
+  href: visuarization.html
   title: "wRiting R Markdown"
-    href: writingrmarkdown.html
+  href: writingrmarkdown.html
   title: "aRtistry"
-    href: artistry.html
+  href: artistry.html
 output:
   html_document:
 theme: jekyll-theme-architect
