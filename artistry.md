@@ -1,5 +1,5 @@
 ---
 layout: page
-title: aRtistry
+title: "aRtistry"
 permalink: /artistry/
 ---
