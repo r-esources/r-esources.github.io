@@ -7,10 +7,10 @@ navbar:
     href: index.html
   - text: "visuaRization"
     href: visuarization.html
-  - text: "wRiting/R Markdown"
-    href: writing/R Markdown.html
+  - text: "wRiting R Markdown"
+    href: writingrmarkdown.html
   - text: "aRtistry"
     href: artistry.html
 output:
   html_document:
-theme: cosmo
+theme: jekyll-theme-minima
