@@ -12,4 +12,4 @@ description: > # Meta description of Homepage
   #- {name: 'Social Events', link: '/social-events'}
   #- {name: 'About', link: '/about'}
   #- {name: 'Contact', link: '/contact'}
-theme: jekyll-theme-minima
+theme: jekyll-theme-minimal
