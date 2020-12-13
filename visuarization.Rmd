@@ -1,0 +1,7 @@
+---
+title: "visuaRization"
+author: "hulyaald"
+date: "13 12 2020"
+output: html_document
+permalink: /visuarization/
+---
