@@ -1,5 +1,5 @@
 ---
 layout: page
-title: wRiting/R Markdown
+title: "wRiting/R Markdown"
 permalink: /writing-r-markdown/
 ---
