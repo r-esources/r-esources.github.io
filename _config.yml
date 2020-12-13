@@ -1,11 +1,8 @@
 # SITE CONFIGURATION
-title: Resources for R # your site title
-author: Hülya Aldemir # You :P
+title: R-esources
+author: Hülya Aldemir
 description: > # Meta description of Homepage
   Cool R things.
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
-
 # THEME SETTINGS
 #navigation: # Navigation links
   # - {name: 'Home', link: '/'}
